@@ -1,0 +1,6 @@
+c:\users\heitor\documents\visual studio 2013\Projects\WebAndLoadTestProject1SeriLog\WebAndLoadTestProject1SeriLog\bin\Debug\WebTest1.webtest
+c:\users\heitor\documents\visual studio 2013\Projects\WebAndLoadTestProject1SeriLog\WebAndLoadTestProject1SeriLog\bin\Debug\WebAndLoadTestProject1SeriLog.dll
+c:\users\heitor\documents\visual studio 2013\Projects\WebAndLoadTestProject1SeriLog\WebAndLoadTestProject1SeriLog\bin\Debug\WebAndLoadTestProject1SeriLog.pdb
+c:\users\heitor\documents\visual studio 2013\Projects\WebAndLoadTestProject1SeriLog\WebAndLoadTestProject1SeriLog\obj\Debug\WebAndLoadTestProject1SeriLog.csprojResolveAssemblyReference.cache
+c:\users\heitor\documents\visual studio 2013\Projects\WebAndLoadTestProject1SeriLog\WebAndLoadTestProject1SeriLog\obj\Debug\WebAndLoadTestProject1SeriLog.dll
+c:\users\heitor\documents\visual studio 2013\Projects\WebAndLoadTestProject1SeriLog\WebAndLoadTestProject1SeriLog\obj\Debug\WebAndLoadTestProject1SeriLog.pdb
